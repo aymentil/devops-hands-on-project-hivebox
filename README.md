@@ -51,5 +51,3 @@ Here is a pre-start checklist:
 ---
 
 ## Implementation
-
-** ADD YOUR IMPLEMENTATION DOCUMENTATION HERE **
